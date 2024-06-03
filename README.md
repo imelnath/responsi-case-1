@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Nama : Fio Mel Nathany  
+NIU : 473580  
+Sesi : Senin, 3 Juni 2024  
+Secret String : c6f033e9fbb55ee0ca2b3c067d8d8e662c268247fd17a77cf556ea3ff51482d020240603010519
 
 ## Checklist Responsi
 
